@@ -1,4 +1,4 @@
-//package Users_package;
+package Entities.User_Entities;
 public class Librarian extends User{
     private boolean onDuty = true;
 

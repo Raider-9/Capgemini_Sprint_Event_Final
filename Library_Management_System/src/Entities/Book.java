@@ -1,4 +1,8 @@
-package book_package;
+package Entities;
+
+//This is a safety import , not required 
+//import Entities.User_Entities.*;
+
 public class Book {
     String title; 
     String author;
