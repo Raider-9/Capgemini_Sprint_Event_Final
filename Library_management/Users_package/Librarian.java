@@ -1,4 +1,4 @@
-//package Users_package;
+package Users_package;
 public class Librarian extends User{
     private boolean onDuty = true;
 

@@ -1,4 +1,4 @@
-//package Users_package;
+package Users_package;
 public class Member extends User{
     //This class represents a member in the library 
 
